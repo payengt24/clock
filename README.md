@@ -1,1 +1,3 @@
-# clock
+# Clock
+
+## wesBos CSS + JS Clock
